@@ -1,0 +1,27 @@
+# Site settings
+# in the templates available like {{ site.myvariable }}.
+title: C Signs & Graphics - Custom Signs Vinyl Wraps Magnets
+email: csignsgraphics408@gmail.com
+brand: C Signs & Graphics
+headline: Vehicle Wraps • Custom Signs • Banners • Vinyl 
+description: > # this means to ignore newlines until "baseurl:"
+  New Site
+baseurl: "/csignsandgraphics" # the subpath of your site, e.g. /blog
+url: "http://csignsandgraphics.github.io" 
+# the base hostname & protocol for your site
+
+Copyright: 2017 C Signs & Graphics. All Rights Reserved.
+
+# Build settings
+markdown: kramdown
+
+# Account ids
+snapwidget: 361625
+
+# Contacts
+email: csignsgraphics408@gmail.com
+phone: +1-408-643-5923
+
+# Tracking
+googleAnalitycsID: UA-83933844-1xxx
+
