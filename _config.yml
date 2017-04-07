@@ -1,8 +1,8 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: C Signs & Graphics - Custom Signs Vinyl Wraps Magnets
+title: C Signs & Graphics
 email: csignsgraphics408@gmail.com
-brand: C Signs & Graphics
+# brand: C Signs & Graphics
 headline: Vehicle Wraps • Custom Signs • Banners • Vinyl 
 description: > # this means to ignore newlines until "baseurl:"
   New Site
@@ -23,5 +23,5 @@ email: csignsgraphics408@gmail.com
 phone: +1-408-643-5923
 
 # Tracking
-googleAnalitycsID: UA-83933844-1xxx
+# googleAnalitycsID: UA-83933844-1xxx
 
